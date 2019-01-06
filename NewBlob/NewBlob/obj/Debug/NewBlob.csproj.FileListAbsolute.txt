@@ -1,0 +1,5 @@
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\NewBlob\NewBlob\bin\Debug\NewBlob.exe.config
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\NewBlob\NewBlob\bin\Debug\NewBlob.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\NewBlob\NewBlob\bin\Debug\NewBlob.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\NewBlob\NewBlob\obj\Debug\NewBlob.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\NewBlob\NewBlob\obj\Debug\NewBlob.pdb
